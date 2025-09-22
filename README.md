@@ -6,7 +6,8 @@
 
 <h2>📄 Certifications</h2>
 
- - [CompTIA A+ 220-1101 Core I & 220-1102 Core II]  (*Place Holder* Badge Emblem & Link)
+ - [CompTIA A+ 220-1101 Core I & 220-1102 Core II] <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e3f1a28d-c52e-404e-beef-19cfab3187d9" />
+ (*Place Holder* Badge Emblem & Link)
 
 <h2>📺 Popular YouTube Videos</h2>
 (EXAMPLES BELOW)

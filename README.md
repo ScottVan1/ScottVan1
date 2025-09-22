@@ -6,7 +6,8 @@
 
 <h2>📄 Certifications</h2>
 
- -<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e3f1a28d-c52e-404e-beef-19cfab3187d9" />  [CompTIA A+ 220-1101 Core I & 220-1102 Core II] (Certification Verification Code; 8TET5RH5VN4E2JY2) <br/><a href="https://verify.comptia.org">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e3f1a28d-c52e-404e-beef-19cfab3187d9" />[CompTIA A+ 220-1101 Core I & 220-1102 Core II] (Certification Verification Code; 8TET5RH5VN4E2JY2)
+<br/><a href="https://verify.comptia.org"> [Verification Link] 
  
 
 <h2>📺 Popular YouTube Videos</h2>
